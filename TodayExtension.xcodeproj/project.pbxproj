@@ -562,6 +562,7 @@
 				0C204C4D1AE5864B0048979C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
